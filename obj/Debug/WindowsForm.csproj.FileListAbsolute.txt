@@ -1,0 +1,11 @@
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.views.FmPessoa.resources
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Cadu\Documents\Visual Studio 2017\Projects\School\WindowsForm\obj\Debug\WindowsForm.pdb
